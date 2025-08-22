@@ -1,3 +1,6 @@
 Gemfile*
 .ruby-lsp
 .rubocop.yml
+
+*.json
+*.yaml
